@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :nerd_face:
 
 <!--
 **BorisEkue/BorisEkue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
