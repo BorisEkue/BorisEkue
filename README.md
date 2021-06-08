@@ -19,3 +19,7 @@ Here are some ideas to get you started:
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisekue&layout=compact" alt="thangchung" />&nbsp;-->
   <img src="https://github-readme-stats.vercel.app/api?username=borisekue&show_icons=true&count_private=true&theme=jolly" alt="thangchung" />
 </p>
+
+<p>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=borisekue)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
