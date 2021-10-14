@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=borisekue)
 
-![Visitors since 08 Mar 2019](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=borisekue&repo=borisekue&countColor=%237B1E7A)
+<!--![Visitors since 08 Mar 2019](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=borisekue&repo=borisekue&countColor=%237B1E7A) -->
 
