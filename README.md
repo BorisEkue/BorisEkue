@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=borisekue&layout=compact" alt="thangchung" />&nbsp;-->
-  <img src="https://github-readme-stats.vercel.app/api?username=borisekue&show_icons=true&count_private=true&theme=jolly" alt="thangchung" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=borisekue&show_icons=true&count_private=true&theme=jolly" alt="thangchung" />-->
 </p>
 
 
