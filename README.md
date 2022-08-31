@@ -1,8 +1,5 @@
 ### Hi there :nerd_face:
 
-<p align="center">
-  <img src="https://github.com/loopDelicious/loopDelicious/blob/master/ezgif.com-gif-maker.gif" />
-</p>
 
 <!--
 **BorisEkue/BorisEkue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
